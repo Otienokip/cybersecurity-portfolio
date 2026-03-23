@@ -24,3 +24,7 @@ N/A (theoretical room)
   ## Reflection
 This room helped build a foundational understanding of cybersecurity concepts.
 It highlighted how different types of attacks exploit vulnerabilities and reinforced the importance of layered security approaches in real-world systems.
+## Key Takeaways
+- Different cybersecurity roles and responsibilities
+- How incidents are handled in real environments
+- Importance of team structure in security operations
