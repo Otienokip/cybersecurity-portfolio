@@ -1,30 +1,49 @@
-# Intro to Cyber Security (TryHackMe)
+ TrySecureMe (TryHackMe)
 
 ## Objective
-Understand the basics of cybersecurity, including threats, vulnerabilities, and attack types.
+Understand different cybersecurity roles and how security teams respond to various real-world incidents.
 
 ## Key Concepts
-- CIA Triad (Confidentiality, Integrity, Availability)
-- Types of attacks (Phishing, Malware, etc.)
-- Basic security principles
+- SOC L1 vs SOC L2 responsibilities
+- Role of CERT in incident response
+- Threat intelligence and threat research
+- Compliance and GRC functions
+- Penetration testing responsibilities
 
-## Steps Taken
-- Navigated through the TryHackMe "Intro to Cyber Security" room
-- Identified key security principles such as CIA Triad and common attack types
-- Analyzed real-world examples of phishing and malware attacks
-- Applied understanding by answering scenario-based questions within the lab
+## Scenario Analysis
 
-## Commands Used
-N/A (theoretical room)
+### SIEM brute-force alert
+Handled by: SOC L1 Analyst  
+Reason: First-level alert triage and monitoring
+
+### Phishing malware (deep analysis)
+Handled by: SOC L2 Analyst  
+Reason: Requires deeper technical investigation
+
+### Ransomware attack
+Handled by: CERT Lead  
+Reason: Critical incident requiring coordination and response
+
+### PCI DSS audit
+Handled by: GRC Auditor  
+Reason: Compliance and regulatory requirement
+
+### Vulnerability testing (new web version)
+Handled by: Penetration Tester  
+Reason: Identifying system weaknesses
+
+### SIEM failure (storage issue)
+Handled by: SOC L2 Analyst  
+Reason: Requires system-level troubleshooting
+
+### FIN7 threat analysis
+Handled by: Threat Researcher  
+Reason: Focus on attacker tactics and intelligence
 
 ## What I Learned
-- Importance of cybersecurity in protecting systems
-- Different types of cyber threats
-- Basic defensive strategies
-  ## Reflection
-This room helped build a foundational understanding of cybersecurity concepts.
-It highlighted how different types of attacks exploit vulnerabilities and reinforced the importance of layered security approaches in real-world systems.
-## Key Takeaways
-- Different cybersecurity roles and responsibilities
-- How incidents are handled in real environments
-- Importance of team structure in security operations
+- Clear distinction between cybersecurity roles
+- Importance of escalation in security operations
+- How real-world security teams are structured
+
+## Reflection
+This room provided insight into how cybersecurity teams collaborate to handle incidents. It highlighted the importance of specialization and clear role definitions in maintaining effective security operations.
