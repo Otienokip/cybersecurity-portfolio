@@ -22,6 +22,6 @@ cybersecurity portfolio showcasing hands-on penetration testing,python-based sec
 
 ## 🚀 Progress
 
-- [ ] TryHackMe Rooms Completed
-- [ ] First Security Tool Built
-- [ ] First Project Uploaded
+- Started TryHackMe pathway
+- Building first Python security tool (Port Scanner)
+- Preparing first lab write-up
