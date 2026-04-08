@@ -1,0 +1,23 @@
+This project simulates a brute force attack on an SSH service and demonstrates detection and analysis using Splunk SIEM.
+tools used
+Kali Linux
+Ubuntu
+Splunk
+Hydra
+Attack Simulation
+Conducted SSH brute force attack using Hydra
+Target system generated multiple failed login attempts
+Detection & Analysis
+Logs ingested into Splunk
+Searched for:
+"Failed password"
+Identified attacker IP and attack pattern
+findings
+High volume of failed login attempts from single IP
+Pattern consistent with brute force attack
+Potential risk of unauthorized access
+mitigation
+Implement account lockout policy
+Use fail2ban
+Disable root login
+Use SSH key authentication
