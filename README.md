@@ -1,18 +1,18 @@
 # cybersecurity-portfolio
 cybersecurity portfolio showcasing hands-on penetration testing,python-based security tools and real-world lab write-ups
-## 📁 Contents
+##  Contents
 
 - TryHackMe Write-ups
 - Security Tools (Python)
 - Cybersecurity Projects
 
-## 🎯 Current Focus
+## Current Focus
 
 - Penetration Testing
 - Web Application Security
 - Network Security
 
-## 🛠️ Tools & Skills
+##  Tools & Skills
 
 - Python
 - Linux
@@ -20,7 +20,7 @@ cybersecurity portfolio showcasing hands-on penetration testing,python-based sec
 - Burp Suite
 - Wireshark
 
-## 🚀 Progress
+## Progress
 
 - Started TryHackMe pathway
 - Building first Python security tool (Port Scanner)
