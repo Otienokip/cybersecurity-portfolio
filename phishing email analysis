@@ -1,0 +1,44 @@
+phishing email analysis
+you are a sco analyst
+user reports
+"i have received this email asking me to reset my password .it looks suspsicious."
+tools
+MXToolbox (header analysis)
+VirusTotal
+Whois lookup
+URL scanning tools
+
+get a sapmle email
+analyse email header
+paste it into
+mxToolbox header analyzer
+
+look for sender ip
+mismatch between "from" and actual domain
+suspcious relay servers
+ analyse links
+extract url from email
+virustotal
+urlvoid
+
+look for malicios flags or newly registered domain
+
+domain investigation 
+when was the domain created
+suspicious if very recent
+
+conetent analysis
+look for 
+ugerncy
+threat language
+poor grammar
+fake branding
+
+based on header inconsistencies ,newly registered domain and malicious url flags 
+this email is highly likely to be a phishing attempt
+
+recommendations
+do not click on links
+report email to security team
+block domain
+eduacted users
